@@ -1,0 +1,18 @@
+{
+  "name": "car-tech-services",
+  "version": "0.0.1",
+  "description": "card tech backend",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Matinez",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0",
+    "@hapi/inert": "^6.0.1",
+    "@hapi/vision": "^6.0.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.12.4"
+  }
+}
